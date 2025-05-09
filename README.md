@@ -16,6 +16,6 @@ Examination System is built on SQL Server to manage exams efficiently. It handle
 
 
 # System OverView
-![Uploading DB Relational.jpg…](https://github.com/abanoubmagdy4/ExaminationSystem/blob/0bf2ad832e4b6664090b49f9bcb33eb2b0fbe917/WhatsApp%20Image%202025-05-03%20at%206.40.27%20PM.jpeg)
+![Uploading DB Relational.jpg…](https://github.com/abanoubmagdy4/ExaminationSystem/blob/8d038a391514b971b05b12181473f010591f7ef7/Overview.jpg)
 
 

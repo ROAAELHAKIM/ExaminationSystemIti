@@ -11,5 +11,5 @@ Team Members
 # ERD 
 ![Uploading DB Relational.jpg…](https://github.com/abanoubmagdy4/ExaminationSystem/blob/391dc4764f1910d2ab19983ed1732adec4b6babc/DB%20Relational.jpg)
 
-#Mapping
-![Uploading DB Relational.jpg…](https://github.com/abanoubmagdy4/ExaminationSystem/blob/391dc4764f1910d2ab19983ed1732adec4b6babc/DB%20Relational.jpg)
+# Mapping
+![Uploading DB Relational.jpg…]([https://github.com/abanoubmagdy4/ExaminationSystem/blob/391dc4764f1910d2ab19983ed1732adec4b6babc/DB%20Relational.jpg](https://github.com/abanoubmagdy4/ExaminationSystem/blob/0bf2ad832e4b6664090b49f9bcb33eb2b0fbe917/WhatsApp%20Image%202025-05-03%20at%206.40.27%20PM.jpeg)

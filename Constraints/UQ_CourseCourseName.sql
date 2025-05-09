@@ -1,0 +1,2 @@
+ALTER TABLE Course
+ADD CONSTRAINT UQ_CourseName UNIQUE (CourseName);
